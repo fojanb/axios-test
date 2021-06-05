@@ -26,3 +26,13 @@ export default Axiostest;
 // headers - headers sent by server
 // config - the original request configuration
 // request - the request object
+// ---------------------------------------------------------------------------------
+// These are basic methods for generating requests in axios.
+// axios.request(config)
+// axios.get(url[, config])
+// axios.delete(url[, config])
+// axios.head(url[, config])
+// axios.options(url[, config])
+// axios.post(url[, data[, config]])
+// axios.put(url[, data[, config]])
+// axios.patch(url[, data[, config]])
