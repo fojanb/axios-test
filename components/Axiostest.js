@@ -19,7 +19,7 @@ const Axiostest = () => {
 };
 export default Axiostest;
 
-// What axios will return ? it returns an object (json) consist of :
+// What axios will return ? it returns a response (which is an object,aka response object) consist of :
 // data - the payload returned from the server
 // status - the HTTP code returned from the server
 // statusText - the HTTP status message returned by the server
